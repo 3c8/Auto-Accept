@@ -1,6 +1,7 @@
 # Auto-Accept
 > Simple Tool To Auto Accept Requested Users<br>
-![Screenshot_48](https://user-images.githubusercontent.com/88463490/149592915-2c780980-3d44-4417-b722-1eafb5d5304b.png)
+![Screenshot_49](https://user-images.githubusercontent.com/88463490/149594773-0bc12c56-08f1-4c68-815a-5b40ebc9c3a2.png)
+
 
 <h3 align="left">Socials:</h3>
 
